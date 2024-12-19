@@ -1,0 +1,49 @@
+piękny;beautiful
+dobry;good
+zły;bad
+dobrze;well
+źle;wrong
+nowy;new
+stary;old
+mały;small
+duży;large/big
+krótki;short
+długi;long
+słaby;weak
+silny/mocny;strong
+tani;cheap
+drogi;expensive
+bezpłatny;for free
+jasny;light/clear
+ciemny;dark
+późny;late
+wczesny;early
+łatwy;easy
+prosty;simple
+interesujący;interesting
+nudny;boring
+zmęczony;tired
+border;granica
+south;południe
+north;północ
+east;wschód
+place;miejsce
+to connect;łączyć (pf. połączyć)
+pattern, model, formula;wzór
+sequence, course;przebieg
+west;zachód
+road, path;droga
+can you repeat?;czy możesz powtórzyć?
+reason;powód
+empty;pusty
+to solve;rozwiązać (ipf. rozwiązywać)
+apartment;mieszkanie
+to worry, zorgi;martwić się
+within a few years;w ciągu kilku lat
+comfortable;wygodny (przyjemny "pleasant", spokojny "peaceful")
+currently;obecnie
+to create;stworzyć
+to connect, bind, tie;wiązać
+you simply have to know it;to po prostu tzeba wiedzieć
+to decide, to resolve;postanowić (ipf postanawiać)
+to die;umrzeć, umieram, umarł

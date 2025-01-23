@@ -44,7 +44,7 @@ comfortable;wygodny (przyjemny "pleasant", spokojny "peaceful")
 currently;obecnie
 to create;stworzyć
 to connect, bind, tie;wiązać
-you simply have to know it;to po prostu tzeba wiedzieć
+you simply have to know it;to po prostu trzeba wiedzieć
 to decide, to resolve;postanowić (ipf postanawiać)
 to die;umrzeć, umieram, umarł
 chapter, division;rozdział
@@ -64,3 +64,21 @@ to stop, to cease;przestać
 memory;pamięć
 to celebrate;uczcić
 anything can happen;wszystko się może zdarzyć
+to roll out;rozwałkować
+squishy;plastyczny
+exact, precise;ścisły
+subject;przedmiot
+representative;przedstawiciel
+to constitute;stanowić
+allowed, free;wolny
+to grow;rosnąć (rosnę, rośniesz)
+event;wydarzenie (or maybe equivalently less formal, zdarzenie?)
+priest;ksiądz
+book;książka
+moon;księżyc
+belligerent;wojujący
+to obtain;zdobyć, zdobywać
+to trap, to confine;uwięzić
+soil;ziema
+birch;brzoza
+beech;buk

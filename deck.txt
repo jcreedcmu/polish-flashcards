@@ -83,3 +83,6 @@ soil;ziema
 birch;brzoza
 beech;buk
 to recognize;uznać/uznawać
+to introduce, to present;przedstawić
+rare;rzadki
+to bend;ipf. zginać, pf. zgiąć (bent: zgięty)
